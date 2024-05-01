@@ -1,0 +1,112 @@
+{\rtf1\ansi\ansicpg949\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww12500\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+!B1322-427   J1325-430   cen a   \
+!************************************!\
+!ATTENTION:                           \
+!  Flux density data provided in this \
+!  table is proprietary, and is to be \
+!  used for planning observations using\
+!  the SMA.  All other uses require \
+!  authorization.\
+!  \
+!  Not all data in these tables have \
+!  have been fully validated; it is \
+!  certain that there are bad points.\
+!  Use at own risk for planning your\
+!  observations!\
+!  \
+!  Questions regarding SMA data and \
+!  our policies should be addressed to\
+!  Mark Gurwell \
+!     (mgurwell at cfa.harvard.edu)\
+!  \
+!************************************!\
+!J2000  RA: 13:25:27.6155    DEC: -43:01:08.804\
+!\
+!BAND    UT DATE   TIME    OBSERV.   F(GHz)   FLUX(JY)   ERROR    FLUX P.I.\
+ 1mm   13 Jul 2005 05:29   SMA       220.02  11.914 +/-  0.873    mgurwell  \
+ 1mm   20 Dec 2006 17:37   SMA       225.52   9.065 +/-  0.708    mgurwell  \
+ 1mm   26 Feb 2009 13:00   SMA       220.55   6.655 +/-  0.412    mgurwell  \
+ 1mm   27 Mar 2009 12:22   SMA       224.76   9.832 +/-  0.492    mgurwell  \
+ 1mm   13 Jun 2009 04:48   SMA       206.21   9.337 +/-  0.552    mgurwell  \
+ 1mm   03 Apr 2010 10:19   SMA       224.85   8.522 +/-  0.428    mgurwell  \
+ 1mm   04 Apr 2010 10:10   SMA       224.85   8.585 +/-  0.441    mgurwell  \
+ 1mm   14 Dec 2010 19:32   SMA       225.48   8.782 +/-  0.461    mgurwell  \
+ 1mm   30 Dec 2010 14:48   SMA       225.48   9.422 +/-  0.479    mgurwell  \
+ 1mm   30 Dec 2010 15:21   SMA       225.48   8.256 +/-  0.454    mgurwell  \
+ 1mm   27 Jan 2011 14:52   SMA       225.49   8.228 +/-  0.414    mgurwell  \
+ 1mm   21 Jan 2012 15:31   SMA       224.81   6.892 +/-  0.357    mgurwell  \
+ 1mm   09 Feb 2012 15:04   SMA       224.89   6.676 +/-  0.337    mgurwell  \
+ 1mm   15 Apr 2012 10:24   SMA       224.70   9.703 +/-  0.487    mgurwell  \
+ 1mm   16 Apr 2012 12:05   SMA       225.46   9.280 +/-  0.516    mgurwell  \
+ 1mm   29 May 2012 05:11   SMA       283.78   7.522 +/-  0.445    mgurwell  \
+ 1mm   03 Jan 2013 16:27   SMA       225.23  10.320 +/-  0.518    mgurwell  \
+ 1mm   24 Jan 2013 16:38   SMA       225.44  10.076 +/-  0.509    mgurwell  \
+ 1mm   05 Feb 2013 15:02   SMA       224.86  12.299 +/-  0.615    mgurwell  \
+ 1mm   08 Feb 2013 12:58   SMA       225.49  10.962 +/-  0.552    mgurwell  \
+ 1mm   14 Mar 2013 11:00   SMA       225.56  11.398 +/-  0.572    mgurwell  \
+ 1mm   23 May 2013 09:00   SMA       225.45  11.241 +/-  0.568    mgurwell  \
+ 1mm   04 Dec 2013 17:04   SMA       225.45  13.174 +/-  0.673    mgurwell  \
+ 1mm   15 Jan 2014 17:29   SMA       225.22  10.205 +/-  0.529    mgurwell  \
+ 1mm   19 Jan 2014 15:46   SMA       235.02  10.057 +/-  0.507    mgurwell  \
+ 1mm   07 Apr 2014 08:41   SMA       225.52  10.597 +/-  0.533    mgurwell  \
+ 1mm   21 May 2014 07:09   SMA       224.79   9.638 +/-  1.078    mgurwell  \
+ 1mm   17 Dec 2014 18:48   SMA       225.48   6.386 +/-  0.322    mgurwell  \
+ 1mm   16 Jan 2015 15:33   SMA       225.45   5.851 +/-  0.295    mgurwell  \
+ 1mm   22 Jan 2015 16:53   SMA       224.73   6.100 +/-  0.313    mgurwell  \
+ 1mm   26 Jan 2015 15:10   SMA       224.72   6.318 +/-  0.320    mgurwell  \
+ 1mm   28 Jan 2015 16:51   SMA       225.49   6.591 +/-  0.331    mgurwell  \
+ 1mm   29 Jan 2015 15:06   SMA       225.44   6.164 +/-  0.327    mgurwell  \
+ 1mm   02 Mar 2015 13:52   SMA       225.40   7.127 +/-  0.797    mgurwell  \
+ 1mm   03 Apr 2015 11:03   SMA       224.72   6.694 +/-  0.338    mgurwell  \
+ 1mm   05 Apr 2015 09:21   SMA       224.90   6.801 +/-  0.379    mgurwell  \
+ 1mm   16 Apr 2015 08:24   SMA       224.89   6.205 +/-  0.351    mgurwell  \
+ 1mm   05 Feb 2016 17:19   SMA       225.60   8.102 +/-  0.409    mgurwell  \
+ 1mm   18 Mar 2016 10:31   SMA       224.72   9.389 +/-  0.474    mgurwell  \
+ 1mm   28 Apr 2016 07:54   SMA       225.53   9.154 +/-  0.468    mgurwell  \
+ 1mm   03 Jun 2016 04:30   SMA       224.70   8.471 +/-  0.435    mgurwell  \
+ 1mm   03 Jan 2017 19:21   SMA       225.52   7.601 +/-  0.383    mgurwell  \
+ 1mm   04 Jan 2017 17:19   SMA       217.66   7.687 +/-  0.392    mgurwell  \
+ 1mm   17 Feb 2017 15:08   SMA       225.55   7.164 +/-  0.359    mgurwell  \
+ 1mm   25 Apr 2017 09:56   SMA       220.67   8.080 +/-  0.426    mgurwell  \
+ 1mm   20 Jun 2017 03:58   SMA       236.51   7.998 +/-  0.402    mgurwell  \
+ 1mm   30 Dec 2017 14:48   SMA       263.69   8.590 +/-  0.438    mgurwell  \
+ 1mm   06 Jan 2018 14:47   SMA       225.51   8.019 +/-  0.411    mgurwell  \
+ 1mm   08 Jan 2018 15:04   SMA       266.97   8.301 +/-  0.428    mgurwell  \
+ 1mm   10 May 2018 08:34   SMA       225.54  10.369 +/-  0.524    mgurwell  \
+ 1mm   12 May 2018 10:37   SMA       225.53   8.832 +/-  0.450    mgurwell  \
+ 1mm   05 Jun 2018 04:37   SMA       235.56   7.501 +/-  0.377    mgurwell  \
+ 1mm   03 Mar 2019 11:31   SMA       225.51   6.594 +/-  0.333    mgurwell  \
+ 1mm   03 Mar 2019 13:00   SMA       225.51   6.734 +/-  0.337    mgurwell  \
+ 1mm   23 May 2019 07:21   SMA       242.51   8.783 +/-  0.444    mgurwell  \
+ 1mm   31 May 2019 06:22   SMA       225.52   8.939 +/-  0.481    mgurwell  \
+ 1mm   08 Jun 2019 06:28   SMA       225.51   9.274 +/-  0.464    mgurwell  \
+ 1mm   20 Jun 2019 06:29   SMA       225.52   7.538 +/-  0.378    mgurwell  \
+ 1mm   11 Mar 2020 11:53   SMA       225.55   8.637 +/-  0.439    mgurwell  \
+ 1mm   14 Jan 2021 16:32   SMA       225.52   6.652 +/-  0.352    mgurwell  \
+ 1mm   22 Feb 2021 13:51   SMA       228.51   6.735 +/-  0.345    mgurwell  \
+ 1mm   08 Feb 2022 15:18   SMA       225.51   7.674 +/-  0.384    mgurwell  \
+ 1mm   04 Mar 2022 12:16   SMA       225.54   7.285 +/-  0.365    mgurwell  \
+ 1mm   21 Mar 2022 13:34   SMA       225.54   7.024 +/-  0.353    mgurwell  \
+ 1mm   05 Dec 2022 17:37   SMA       225.79   7.374 +/-  0.372    mgurwell  \
+ 1mm   14 Dec 2022 19:05   SMA       225.79   7.183 +/-  0.361    mgurwell  \
+ 1mm   28 Dec 2022 18:30   SMA       225.12   6.970 +/-  0.355    mgurwell  \
+ 1mm   04 Jan 2023 17:28   SMA       225.11   7.692 +/-  0.388    mgurwell  \
+ 1mm   13 Jan 2023 16:06   SMA       225.54   8.496 +/-  0.427    mgurwell  \
+ 1mm   16 Jan 2023 14:35   SMA       225.54   8.078 +/-  0.405    mgurwell  \
+ 1mm   18 Jan 2023 17:53   SMA       220.10   6.923 +/-  0.348    mgurwell  \
+ 1mm   20 Jan 2023 13:28   SMA       225.54   6.714 +/-  0.343    mgurwell  \
+ 1mm   27 Jan 2024 13:53   SMA       225.52   8.726 +/-  0.440    mgurwell  \
+ 1mm   19 Feb 2024 14:01   SMA       233.97   7.482 +/-  0.374    mgurwell  \
+ 1mm   29 Mar 2024 12:43   SMA       225.54   8.351 +/-  0.434    mgurwell  \
+ 1mm   02 Apr 2024 11:21   SMA       225.57   8.862 +/-  0.445    mgurwell  \
+ 850   03 Nov 2009 19:40   SMA       341.48   9.218 +/-  0.646    mgurwell  \
+ 850   12 Jun 2010 04:09   SMA       341.46   6.782 +/-  0.402    mgurwell  \
+ 850   20 Jun 2017 03:58   SMA       348.01   6.465 +/-  0.336    mgurwell}
